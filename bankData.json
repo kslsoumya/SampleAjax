@@ -1,0 +1,26 @@
+{
+	"number":5,
+	"message":"success",
+	"banks":[
+		{
+			"name":"ICICI",
+			"ROI" :10
+		},
+		{
+			"name":"HDFC",
+			"ROI" :8
+		},
+		{
+			"name":"SBI",
+			"ROI" :7.9
+		},
+		{
+			"name":"PNB",
+			"ROI" :6.8
+		},
+		{
+			"name":"BOB",
+			"ROI" :9.09
+		}]
+	
+}
